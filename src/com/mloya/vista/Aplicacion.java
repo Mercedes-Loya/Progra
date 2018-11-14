@@ -38,6 +38,7 @@ public class Aplicacion {
 //                p2.toString()+"\n"+
 //                "La distancia entre dos puntos son:"
 //                +Punto.calcularDistancia(p1, p2));
+
   }
    
     
